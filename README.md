@@ -1,2 +1,1 @@
-# yapim-asamasinda
-Yapım Aşamasında Sayfası
+# Yapım Aşamasında Sayfası Örneği
